@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![workday scheduler](./work-day-scheduler-image.png)
+![workday scheduler](work-day-scheduler-image.png)
 
 This is a simple calendar that you can use to keep track of appointments, events, and other things to do throughout your workday.
 
